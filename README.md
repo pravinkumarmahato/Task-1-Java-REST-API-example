@@ -1,4 +1,5 @@
 # Task-1-Java-REST-API-example
+The API is build using Spring Boot a java framework.
 
 ## Task Description: 
 Implement an application in java which provides a REST API with endpoints for searching,
@@ -26,6 +27,8 @@ contains this string and return one or more servers found. Return 404 if nothing
 
 For this i have used spring boot to create API to fetch thee data from the mongo db
 
+## Demo video: https://drive.google.com/file/d/17n48sDmkxYfpPhPez92PQEueE6DFUj3P/view?usp=sharing
+
 ## The steps to Create Project:
 ### Step-1:
     Install mongo db in the system or we can use Mongo Atlas(for cloud mongo database)
@@ -40,8 +43,6 @@ For this i have used spring boot to create API to fetch thee data from the mongo
     Set Mongodb URI and Port in application.properties file so that the Rest API should connect to the mongodb
 ### Step-4:
     Now run the Spring boot Application annd Test using postman
-
-## Demo video is uploaded on this link : https://drive.google.com/file/d/17n48sDmkxYfpPhPez92PQEueE6DFUj3P/view?usp=sharing
 
 ## Demo Images 
 ### Create Server Object
